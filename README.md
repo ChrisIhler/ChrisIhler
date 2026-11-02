@@ -13,7 +13,7 @@ AI implementation and automation consultant in Lynnwood, WA (Seattle area). I bu
 | [cascadecleanpros.com](https://cascadecleanpros.com) | Prerendered React site for a pressure washing company, with service, location and blog pages | [repo](https://github.com/ChrisIhler/cascade-clean-pros) |
 | [coreyihlerrealestate.com](https://coreyihlerrealestate.com) | Lead-capture site for a licensed real estate broker | [repo](https://github.com/ChrisIhler/coreyihler-real-estate) |
 
-All three are versioned on GitHub and deployed on Cloudflare Pages, with forms that post to Google Apps Script.
+All three are versioned on GitHub and deployed on Cloudflare Pages.
 
 ### What I do
 
